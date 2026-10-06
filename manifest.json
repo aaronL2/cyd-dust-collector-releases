@@ -1,16 +1,16 @@
 {
-  "generated": "202610.06.12.59",
+  "generated": "202610.06.13.41",
   "repo": "aaronL2/cyd-dust-collector-releases",
   "station": {
-    "build": "202610.06.12.55",
+    "build": "202610.06.13.41",
     "size": 1025504,
-    "md5": "3ca999c9bbec442b25bb116f8ec3e1ad",
+    "md5": "b586cff5314306acfefaaf465e44aa8f",
     "url": "https://raw.githubusercontent.com/aaronL2/cyd-dust-collector-releases/main/station.bin"
   },
   "collector": {
-    "build": "202610.06.12.59",
-    "size": 1182176,
-    "md5": "08a0de9a210eac25a516e95cfee46842",
+    "build": "202610.06.13.41",
+    "size": 1183792,
+    "md5": "38149c359216b55abbdd111f301c9649",
     "url": "https://raw.githubusercontent.com/aaronL2/cyd-dust-collector-releases/main/collector.bin"
   }
 }
