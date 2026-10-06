@@ -15,4 +15,4 @@ generated on each device and stored in its NVS, never compiled in.
 
 Stamps are `YYYYMM.DD.HH.MM` of the build, shown on-device as `FW: …`.
 
-Current: **202610.06.13.41**
+Current: **202610.06.13.53**
